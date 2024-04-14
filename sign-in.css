@@ -6,7 +6,7 @@
 
 body {
     background-color: gray;
-    background-image: url(image/images/netflix\ background.jpg);
+    background-image: url(background.jpg);
     color: #fff; 
     font-family: 'Muli', sans-serif;
     display: flex;
